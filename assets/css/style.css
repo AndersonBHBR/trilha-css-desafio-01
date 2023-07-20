@@ -17,6 +17,17 @@ body, html {
     left: 465px;
 }
 
+.banner-content h1{
+    font-family: Raleway;
+    font-size: 40px;
+    background-image: linear-gradient(#33A8DB,#1472B7);
+    color: white;
+
+    /* Adicionado: */
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
 .logo{
     top: 27px;
     left: 131px;
