@@ -11,7 +11,10 @@ body, html {
 }
 
 .banner-content{
-
+    width: 510px;
+    height: 393px;
+    top: 56px;
+    left: 465px;
 }
 
 .logo{
