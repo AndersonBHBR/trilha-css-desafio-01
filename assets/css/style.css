@@ -5,6 +5,16 @@ body, html {
 }
 
 .banner{
-    background-image: url(assets/images/banner.png);
+    background-image: url("assets/images/banner.png");
     background-color: #000000, #31A8DD;
+}
+
+.banner-content{
+
+}
+
+.logo{
+    top: 27px;
+    left: 131px;
+    border-radius: 100%;
 }
