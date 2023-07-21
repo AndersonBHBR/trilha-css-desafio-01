@@ -14,7 +14,7 @@
     left: 465px;
 }
 
-.banner-content h1{
+.banner h1{
     font-size: 40px;
     background-image: linear-gradient(#33A8DB,#1472B7);
     color: white;
@@ -24,7 +24,7 @@
     -webkit-background-clip: text;
 }
 
-.banner-content p{
+.banner p{
     color: white;
 }
 
