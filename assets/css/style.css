@@ -73,3 +73,17 @@ p{
 }
 
 /*Fim do conteudo do Header*/
+/*Começo do conteudo do Main*/
+
+h2 {
+    font-size: 2rem;
+    color: #33A8DB;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+
+  section {
+    margin: 100px auto;
+  }
