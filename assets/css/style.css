@@ -75,7 +75,7 @@ p{
 .banner .banner-content button:hover {
     background-color: #252525;
     border-image-slice: 10;
-    border-radius: 30px;
+    border-radius: 0;
 }
 
 /*Fim do conteudo do Header*/
