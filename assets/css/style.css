@@ -13,6 +13,7 @@ body, html {
 .banner-content{
     width: 510px;
     height: 393px;
+    border: 1px;
     top: 56px;
     left: 465px;
 }
