@@ -28,6 +28,10 @@ body, html {
     -webkit-background-clip: text;
 }
 
+.banner-content p{
+    color: white;
+}
+
 .logo{
     top: 27px;
     left: 131px;
