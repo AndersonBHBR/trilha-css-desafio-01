@@ -29,12 +29,11 @@ p{
     -webkit-background-clip: text;
   }
 
-.banner-content{
-    width: 510px;
-    height: 393px;
-    border: 1px;
-    top: 56px;
-    left: 465px;
+.banner .banner-content{
+    color: white;
+    width: 600px;
+    margin: auto;
+    text-align: center;
 }
 
 .logo{
