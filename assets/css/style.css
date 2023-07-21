@@ -72,6 +72,10 @@ p{
     border-radius: 30px;
 }
 
+.banner .banner-content button:hover {
+    padding: 18px 34px;
+}
+
 /*Fim do conteudo do Header*/
 /*Começo do conteudo do Main*/
 
