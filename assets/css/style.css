@@ -36,6 +36,11 @@ p{
     text-align: center;
 }
 
+.banner p {
+    font-size: 1.25rem;
+    margin: 16px 0 24px;
+}
+
 .logo{
     top: 27px;
     left: 131px;
